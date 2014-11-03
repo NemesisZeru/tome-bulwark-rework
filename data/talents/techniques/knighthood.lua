@@ -1,4 +1,5 @@
--- Bulwark Update, for Tales of Maj'Eyal.
+-- ToME - Tales of Maj'Eyal:
+-- Copyright (C) 2009, 2010, 2011 Nicolas Casalini
 --
 -- This program is free software: you can redistribute it and/or modify
 -- it under the terms of the GNU General Public License as published by
@@ -12,16 +13,4 @@
 --
 -- You should have received a copy of the GNU General Public License
 -- along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-long_name = 'Bulwark Update!'
-short_name = 'bulwark-rework'
-for_module = 'tome'
-version = {1,2,4,}
-weight = 100
-author = {'NemesisZeru', 'Razakai', 'Starkeep'} -- More to be added as people contribute!
-description = 'Some fun new toys for the Bulwarks to play with!'
-tags = {'class', 'bulwark', 'shields', 'update', 'rework'}
-overload = true
-superload = true
-hooks = true
-data = true
+ 
